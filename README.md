@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 Soy un apasionado desarrollador FullStack en busca de emocionantes oportunidades para aprender y crecer en el mundo del desarrollo.
 
