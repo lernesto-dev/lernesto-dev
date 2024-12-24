@@ -56,26 +56,16 @@ Soy un apasionado desarrollador Fullstack en busca de emocionantes oportunidades
 
 ### Informacion Github
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=lernesto-dev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="220" alt="Anurag's GitHub stats">
+<div align="lef">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lernesto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="220" alt="Top Langs">
 </div>
 
-<div align="center">
+<div align="lef">
   <img src="https://streak-stats.demolab.com?user=lernesto-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=lernesto-dev&style=flat-square&color=blue" alt=""/>
-
----
-
-### Repositorios
-
-<div width="100%" align="center">
-	<a href="https://github.com/lernesto-dev/AdoptaATuNuevaMascota" align="left">
-		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lernesto-dev&repo=AdoptaATuNuevaMascota&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-	</a>
-	<a href="https://github.com/lernesto-dev/Analizador" align="right">
-		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lernesto-dev&repo=Analizador&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-	</a>
+<div align="lef">
+  <img src="https://github-readme-stats.vercel.app/api/?username=lernesto-dev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="220" alt="Anurag's GitHub stats">
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=lernesto-dev&style=flat-square&color=blue" alt=""/>
