@@ -56,9 +56,14 @@ Soy un apasionado desarrollador Fullstack en busca de emocionantes oportunidades
 
 ### Informacion Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lernesto-dev\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=lernesto-dev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="220" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lernesto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="220" alt="Top Langs">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lernesto-dev\&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lernesto-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=lernesto-dev&style=flat-square&color=blue" alt=""/>
 
@@ -74,18 +79,3 @@ Soy un apasionado desarrollador Fullstack en busca de emocionantes oportunidades
 		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lernesto-dev&repo=Analizador&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 	</a>
 </div>
-
----
-
-### Redes sociales
-
-<p align="left"> 
-	<a href="https://www.linkedin.com/in/lernesto" target="_blank" rel="noreferrer"> 
-		<picture> 
-			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-		</picture> 
-	</a>
-</p>
-
