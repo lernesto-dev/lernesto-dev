@@ -21,6 +21,8 @@ Soy un apasionado desarrollador FullStack en busca de emocionantes oportunidades
 
 <div width="100%" align="center"><a href="https://github.com/lernesto-dev/AdoptaATuNuevaMascota" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lernesto-dev&repo=AdoptaATuNuevaMascota&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lernesto-dev/Analizador" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lernesto-dev&repo=Analizador&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+### Informacion Github
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C860%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.8%20million%20lines%20of%20code-blue)
