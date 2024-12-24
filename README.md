@@ -1,8 +1,4 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)mi nombre es Ernesto
-===============================================================================================================================
-
-Soy un desarrollador FullStack
-------------------------------
+![Header](./your-header-image-name.png)
 
 Soy un apasionado desarrollador FullStack en busca de emocionantes oportunidades para aprender y crecer en el mundo del desarrollo.
 
