@@ -2,7 +2,7 @@
 
 Soy un apasionado desarrollador Fullstack en busca de emocionantes oportunidades para aprender y crecer en el mundo del desarrollo.
 
-* 🖥️  Visita mi portafolio [lernesto](https://lernesto.vercel.app/))
+* 🖥️  Visita mi portafolio [lernesto](https://lernesto.net/))
 * ✉️  Puedes contactarme [contacto@lernesto.net](mailto:contacto@lernesto.net)
 
 ---
